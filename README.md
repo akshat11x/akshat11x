@@ -79,7 +79,7 @@ Object Oriented Programming, Databases, Discrete Maths, Data Structures and Algo
 **Senior Secondary (Class 12), CBSE**  
 Ramjas School Pusa Road, Delhi  
 _2020 - 2021_  
-**Subjects:** Physics, Chemistry, Mathematics  
+**Subjects:** Physics, Chemistry, Mathematics
 **Percentage:** 93%
 
 ---

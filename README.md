@@ -7,7 +7,6 @@ Welcome! I'm Akshat Jain, an Information Technology undergraduate specializing i
 ## 📫 Contact
 
 - **Email:** akshatjain2k3@gmail.com
-- **Phone:** +91 8882636445
 - **LinkedIn:** [linkedin.com/in/akshat-jain-5917a9256](http://www.linkedin.com/in/akshat-jain-5917a9256)
 - **GitHub:** [github.com/akshat11x/Projects](https://github.com/akshat11x/Projects)
 - **LeetCode:** [leetcode.com/u/akshatjain2636](https://leetcode.com/u/akshatjain2636/)

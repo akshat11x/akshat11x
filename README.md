@@ -1,95 +1,80 @@
-# Akshat Jain -  A Web Developer and a Data Analyst.
+# 👋 Hi, I'm Akshat Jain
 
-Welcome! I'm Akshat Jain, an Information Technology undergraduate specializing in full-stack web development, with extensive experience in the MERN stack. I'm passionate about building dynamic, responsive web applications and integrating RESTful APIs. I am actively seeking opportunities as a Web Developer to leverage my technical acumen and creativity in developing scalable applications and enhancing user experiences.
-
----
-
-## 📫 Contact
-
-- **Email:** akshatjain2k3@gmail.com
-- **LinkedIn:** [linkedin.com/in/akshat-jain-5917a9256](http://www.linkedin.com/in/akshat-jain-5917a9256)
-- **GitHub:** [github.com/akshat11x/Projects](https://github.com/akshat11x/Projects)
-- **LeetCode:** [leetcode.com/u/akshatjain2636](https://leetcode.com/u/akshatjain2636/)
+🎓 B.Tech. IT student at Bharati Vidyapeeth’s College of Engineering, Delhi (2022–2026)  
+👨‍💻 Software Developer | Full-Stack Web Enthusiast | AI/ML Explorer  
+📍 Passionate about building scalable web apps, solving real-world problems, and exploring intelligent systems
 
 ---
 
-## 🧑‍💻 Technical Skills
+## 🚀 Projects That Define Me
 
-**Frontend:**  
-React.js, WebGL, Bootstrap, Tailwind CSS
+### 🩺 [MedKit – AI-Powered Medical Assistant](https://github.com/akshat11x/Projects)
+A full-stack web app that:
+- 📄 Summarizes medical reports using Cerebras AI
+- 🌐 Translates into 14+ languages
+- 📅 Schedules doctor appointments  
+**Tech Stack:** React, Node.js, Express, MongoDB, REST APIs, TailwindCSS
 
-**Backend:**  
-Node.js, Express.js, Flask
+### 🍲 [FoodieExpress – Online Food Ordering Platform](https://github.com/akshat11x/Projects)
+- Responsive React app with category filters for 50+ Indian dishes
+- Secure login system with Express + MongoDB (100% test pass rate)
+- Integrated live weather updates via external APIs  
+**Stack:** React, TailwindCSS, Node.js, Express, MongoDB, HTML/CSS/JS
 
-**Databases:**  
-SQL, Pandas, MongoDB
+### 🌦️ Interactive Weather Forecasting Webpage
+- Shows live weather for 100+ cities
+- Enhanced user engagement by 40%  
+**Stack:** HTML, CSS, JavaScript, OpenWeather API
 
-**Tools:**  
-Git, GitHub, Postman, VS Code
+---
 
-**Concepts:**  
-REST APIs, JWT Authentication, Responsive Design, Deployment Concepts
+## 🛠️ Tech Stack & Skills
+
+**Languages:** Python, C++, JavaScript  
+**Frameworks:** React.js, Node.js, Express.js, Flask, TensorFlow, Scikit-Learn  
+**Database:** MongoDB, SQL, Pandas  
+**Concepts:** DSA, Machine Learning, Deep Learning, Computer Vision  
+**Tools:** Git, PowerBI, OpenCV, Pickle, Matplotlib, Excel  
+
+
+**Certifications:**  
+- AWS Essentials – Udemy  
+- Data Science – Veeyo Tech  
+- Cyber Job Simulation – Deloitte Australia  
+- Winner 🏆 – Data Science Competition, Campus Carnival 2.0
 
 ---
 
 ## 💼 Work Experience
 
-**Power Finance Corporation Ltd. (PFC), New Delhi**  
-*Intern, IT Department*  
-_06/2025 - 07/2025_
+### 💬 Tech Tree Pte Ltd (Singapore) — Chatbot Dev Intern (Mar 2024 – Aug 2024)
+- Designed storyboards and developed GPT-powered chatbots  
+- Collaborated with UI/UX and product teams
 
-- Completed a 1-month internship in the IT unit, contributing to internal business application software requirements.
-- Compiled and presented a detailed project report to the HR unit, encapsulating key internship learnings, application development processes, operational workflow, and projected outcomes.
-
-**Tech Tree Pte Ltd, Singapore**  
-*Storyboarding and Chatbot Development Intern*  
-_03/2024 - 08/2024_
-
-- Collaborated with cross-functional teams to gather requirements and design chatbot flows.
-- Developed interactive chatbot solutions based on user needs using ReallyGpt software.
+### 🖥️ Power Finance Corporation Ltd. (Govt. PSU) — IT Intern (Jun 2025 – Jul 2025)
+- Worked on internal business app software  
+- Presented project report detailing workflows and development learnings
 
 ---
 
-## 🚀 Projects
+## 📈 Education
 
-### [MedKit AI](https://github.com/akshat11x/Projects/tree/main/dawa_ware)
-- Built a full-stack web app using React and Express to summarize medical reports, translate them into 14+ languages, and schedule doctor appointments, improving healthcare access for diverse users.
-- Integrated Cerebras AI for real-time NLP-based processing and designed RESTful APIs to streamline user workflows and reduce manual interpretation time by 70%.
+**Bharati Vidyapeeth’s College of Engineering, Delhi**  
+_BTech – Information Technology (2022–2026)_  
+**CGPA:** 8.96 / 10
 
-### [FoodieExpress - Online Food Ordering Platform](https://github.com/akshat11x/Projects)
-- Designed and deployed a responsive food ordering platform using React and TailwindCSS with category-based filtering for over 50+ Indian dishes.
-- Implemented secure authentication using Express, MongoDB, and bcrypt, resulting in 100% login success rate during testing.
-
-### [Interactive Weather Forecasting Webpage](https://github.com/akshat11x/Projects/tree/main/weather%20app)
-- Built a web app using HTML, CSS, and JavaScript to display live weather updates for more than 100 cities.
-- Integrated weather APIs to provide accurate, dynamic updates, increasing user engagement time by 40%.
+**Ramjas School, Pusa Road (CBSE)**  
+_12th (PCM)_ – 93%
 
 ---
 
-## 🎓 Education
+## 🔗 Let's Connect
 
-**BTech in Information Technology**  
-Bharati Vidyapeeth's College of Engineering, Delhi  
-_11/2022 - 06/2026_  
-**CGPA:** 8.96/10  
-**Relevant Coursework:**  
-Object Oriented Programming, Databases, Discrete Maths, Data Structures and Algorithms, Operating Systems, Computer Networks, Machine Learning, Image Processing
-
-**Senior Secondary (Class 12), CBSE**  
-Ramjas School Pusa Road, Delhi  
-_2020 - 2021_  
-**Subjects:** Physics, Chemistry, Mathematics
-**Percentage:** 93%
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshat--jain--5917a9256-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshat-jain-5917a9256/)  
+[![GitHub](https://img.shields.io/badge/GitHub-akshat11x-black?style=flat&logo=github)](https://github.com/akshat11x)  
+📧 **akshatjain2k3@gmail.com**  
+📱 +91 8882636445
 
 ---
 
-## 🏆 Awards & Certifications
-
-- **Data Science Certification** - Veeyo Tech ([View Certificate](https://www.linkedin.com/in/akshat-jain-5917a9256/details/certifications/1749992804506/single-media-viewer/?profileId=ACoAAD8fHf0BZ31U-zwkPZsF7LvmJRYHnhPrvPg)), 07/2024 - 08/2024
-- **Cyber Job Simulation (Forage)** - Deloitte Australia ([View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_hLrSBKiPPtXd8o4dv_1750878180895_completion_certificate.pdf)), 06/2025
-- **AWS Essentials: A Beginner's Guide - Udemy ([View Certificate](https://www.udemy.com/certificate/UC-428e108c-44d7-4018-b482-42e45326eaf1/)), 07/2025
-
----
-
-Thank you for visiting my profile!  
-Feel free to connect or reach out for collaborations, projects, or web development opportunities.
+_“Striving for clean code, better systems, and impactful tech. Let's build something awesome together!”_
